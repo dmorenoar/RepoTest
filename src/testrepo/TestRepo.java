@@ -17,8 +17,9 @@ public class TestRepo {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        //Primer commit
+        //Primer commit : Team -> Git -> Initialize repository
         
+        //Luego hago un Push: Team -> Remote
         
     }
     
